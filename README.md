@@ -19,10 +19,6 @@ Alongside analytics, I actively practice data structures and algorithms through 
 * Data Structures and Algorithms
 * Statistical and Logical Reasoning
 
-## Tech Stack
-
-
----
 
 ## Tech Stack
 
