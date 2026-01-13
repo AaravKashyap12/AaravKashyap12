@@ -21,8 +21,6 @@ Alongside analytics, I actively practice data structures and algorithms through 
 
 ## Tech Stack
 
-Here’s your **clean Shields.io tech stack badge section**, properly grouped and **with Express.js added**.
-You can paste this **directly into your GitHub README**.
 
 ---
 
