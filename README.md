@@ -1,97 +1,213 @@
 
+<div align="center">
 
-# Aarav Kashyap Singh
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=38&duration=2200&pause=900&color=4DA6FF&center=true&vCenter=true&width=640&lines=Aarav+Kashyap+Singh" />
+</h1>
 
-Computer Science undergraduate at Lovely Professional University with a strong interest in data science, machine learning, and analytical problem-solving. I enjoy working with data to uncover patterns, build predictive models, and translate complex information into insights that support real-world decision-making.
+<strong>Data Science • Machine Learning • Software Engineering</strong>
+<br/>
 
-## About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarav-kashyap-3a6351289/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aaravkashyap1203@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/AaravKashyap12)
 
-My academic and project experience spans data analysis, statistical reasoning, machine learning fundamentals, and business intelligence. I have hands-on experience in data preparation, exploratory data analysis, and data visualization using modern analytics tools. I place strong emphasis on logical thinking, algorithmic reasoning, and structured problem-solving, which form the foundation of my approach to data-driven work.
+</div>
 
-Alongside analytics, I actively practice data structures and algorithms through platforms like LeetCode to strengthen problem-solving skills and write efficient, scalable code.
+Computer Science undergraduate at **Lovely Professional University** with interests spanning **machine learning, data systems, and software engineering**.
 
-## Areas of Interest
+I like working where **data meets engineering**—analyzing datasets, building predictive models, and translating them into software systems that are clean, reliable, and easy to reason about. I care about correctness, clarity, and designs that continue to make sense as complexity grows.
 
-* Data Science and Analytics
-* Machine Learning Fundamentals
-* Exploratory Data Analysis (EDA)
-* Business Intelligence and Visualization
-* Data Structures and Algorithms
-* Statistical and Logical Reasoning
-
-
-## Tech Stack
-
-### Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat\&logo=openjdk\&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat\&logo=cplusplus\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
-
-
-
-### Data Science & Machine Learning
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat\&logo=numpy\&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
-![Seaborn](https://img.shields.io/badge/Seaborn-2C2D72?style=flat)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat\&logo=scikitlearn\&logoColor=white)
-
-
-
-### Business Intelligence & Visualization
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat\&logo=powerbi\&logoColor=black)
-
-
-
-### Web & Backend Technologies
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat\&logo=node.js\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat\&logo=express\&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat\&logo=react\&logoColor=black)
-
-
-
-### Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
-
-
-
-### Development Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat\&logo=jupyter\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat\&logo=visualstudiocode\&logoColor=white)
-
-
-
-### Networking
-
-![Cisco](https://img.shields.io/badge/Cisco_Networking-1BA0D7?style=flat\&logo=cisco\&logoColor=white)
+Alongside ML and analytics, I actively practice **data structures and algorithms**, which strongly influences how I think about performance, scalability, and edge cases.
 
 ---
 
-## What You’ll Find Here
+## 🎯 Current Focus
 
-* LeetCode solutions automatically synced using LeetHub
-* Data analysis and EDA projects
-* Machine learning practice notebooks
-* Analytics and visualization dashboards
-* Clean, readable, and optimized code
+- Applying **machine learning** to real-world datasets  
+- Designing **data-backed software systems** - Writing clean, maintainable backend code  
+- Building cloud and production awareness  
+- Strengthening DSA for long-term engineering depth  
+
+---
+
+## 🛠 Skills & Technologies
+
+### Programming & Core CS
+
+```text
+Python        ████████████████████████████████████████  ML, Data, Automation
+Java          ████████████████████████████████████████  Backend, OOP, DSA
+C / C++       ███████████████████████████████████████   Foundations
+JavaScript    ███████████████████████████████████████   Web & APIs
+SQL           ████████████████████████████████████████  Analytics & Databases
+
+```
+
+### 📊 Machine Learning & Data
+
+<table>
+<tr>
+<td align="center" width="96"><img src="https://cdn.simpleicons.org/python/3776AB" width="40"/>
 
 
-## Contact
 
-* LinkedIn: https://www.linkedin.com/in/aarav-kashyap-3a6351289/
-* Email: aaravkashyap1203@gmail.com
+Python</td>
+<td align="center" width="96"><img src="https://cdn.simpleicons.org/pandas/150458" width="40"/>
 
+
+
+Pandas</td>
+<td align="center" width="96"><img src="https://cdn.simpleicons.org/numpy/013243" width="40"/>
+
+
+
+NumPy</td>
+<td align="center" width="96"><img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="40"/>
+
+
+
+scikit-learn</td>
+<td align="center" width="96"><img src="https://cdn.simpleicons.org/powerbi/F2C811" width="40"/>
+
+
+
+Power BI</td>
+</tr>
+</table>
+
+### 🧩 Software & Backend
+
+<table>
+<tr>
+<td align="center" width="96"><img src="https://www.google.com/search?q=https://cdn.simpleicons.org/openjdk/white" width="40"/>
+
+
+
+Java</td>
+<td align="center" width="96"><img src="https://cdn.simpleicons.org/springboot/6DB33F" width="40"/>
+
+
+
+Spring Boot</td>
+<td align="center" width="96"><img src="https://www.google.com/search?q=https://cdn.simpleicons.org/nodotjs/339933" width="40"/>
+
+
+
+Node.js</td>
+<td align="center" width="96"><img src="https://cdn.simpleicons.org/express/FFFFFF" width="40"/>
+
+
+
+Express</td>
+<td align="center" width="96"><img src="https://cdn.simpleicons.org/apachekafka/FFFFFF" width="40"/>
+
+
+
+Kafka</td>
+<td align="center" width="96"><img src="https://cdn.simpleicons.org/rabbitmq/FF6600" width="40"/>
+
+
+
+RabbitMQ</td>
+</tr>
+</table>
+
+### ☁️ Cloud & Infrastructure
+
+<table>
+<tr>
+<td align="center" width="96"><img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="40"/>
+
+
+
+AWS</td>
+<td align="center" width="96"><img src="https://cdn.simpleicons.org/docker/2496ED" width="40"/>
+
+
+
+Docker</td>
+<td align="center" width="96"><img src="https://cdn.simpleicons.org/mysql/4479A1" width="40"/>
+
+
+
+MySQL</td>
+<td align="center" width="96"><img src="https://cdn.simpleicons.org/postgresql/4169E1" width="40"/>
+
+
+
+PostgreSQL</td>
+<td align="center" width="96"><img src="https://cdn.simpleicons.org/linux/FCC624" width="40"/>
+
+
+
+Linux</td>
+<td align="center" width="96"><img src="https://cdn.simpleicons.org/github/FFFFFF" width="40"/>
+
+
+
+GitHub</td>
+</tr>
+</table>
+
+---
+
+## 📌 Selected Work
+
+### 🔹 TalentMatch — Intelligent Resume Screening System
+
+An **NLP-driven resume screening and ranking platform** for Computer Science hiring workflows.
+
+* Context-aware resume parsing (sections, experience, dates)
+* Recruiter-controlled weighted scoring
+* Candidate comparison and structured exports
+* **Focus:** Machine Learning · NLP · Data Processing · SQL
+
+### 🔹 JP Morgan Chase — Software Engineering Simulation
+
+* Built backend components using **Java and Spring**
+* Designed and implemented **REST APIs**
+* Worked with **SQL databases** and message-queue concepts
+* Followed production-oriented, enterprise engineering workflows
+
+---
+
+## 📈 GitHub Snapshot
+
+<!-- GitHub Streak -->
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=AaravKashyap12&theme=github-dark&hide_border=true" 
+    alt="GitHub Streak"
+  />
+</p>
+
+<!-- GitHub Stats + Top Languages -->
+<table align="center">
+  <tr>
+    <td>
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=AaravKashyap12&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800" 
+        alt="GitHub Stats"
+      />
+    </td>
+    <td>
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaravKashyap12&layout=compact&theme=github_dark&hide_border=true&langs_count=6" 
+        alt="Top Languages"
+      />
+    </td>
+  </tr>
+</table>
+
+
+---
+
+## 🤝 Open To
+
+* Data Science / Machine Learning internships
+* Software Engineering roles
+* Backend or analytics-heavy projects
+
+If you’re working on something meaningful with data or systems, I’m always open to a conversation.
 
