@@ -80,23 +80,15 @@ Power BI</td>
 
 <table>
 <tr>
-<td align="center" width="96"><img src="https://www.google.com/search?q=https://cdn.simpleicons.org/openjdk/white" width="40"/>
-
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/><br>Java</td>
 
 
 Java</td>
 <td align="center" width="96"><img src="https://cdn.simpleicons.org/springboot/6DB33F" width="40"/>
 
 
-
-Spring Boot</td>
-<td align="center" width="96"><img src="https://www.google.com/search?q=https://cdn.simpleicons.org/nodotjs/339933" width="40"/>
-
-
-
 Node.js</td>
-<td align="center" width="96"><img src="https://cdn.simpleicons.org/express/FFFFFF" width="40"/>
-
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/><br>Node.js</td>
 
 
 Express</td>
@@ -117,9 +109,7 @@ RabbitMQ</td>
 
 <table>
 <tr>
-<td align="center" width="96"><img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="40"/>
-
-
+<td align="center" width="96"><img src="https://img.icons8.com/color/48/amazon-web-services.png" width="40"/><br>AWS</td>
 
 AWS</td>
 <td align="center" width="96"><img src="https://cdn.simpleicons.org/docker/2496ED" width="40"/>
