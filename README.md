@@ -1,20 +1,19 @@
 <div align="center">
 
+<br>
+
 # Aarav Kashyap Singh
 
-Building useful AI systems.
+**AI engineer building useful AI systems.**
 Human first, engineer second.
 
-<br/>
+<br>
 
-<a href="https://www.aaravkashyap.live/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="https://x.com/byaarav">
-  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/aarav-kashyap-3a6351289/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=safari&logoColor=white)](https://aaravkashyap.live)&nbsp;&nbsp;
+[![Twitter](https://img.shields.io/badge/-@byaarav-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/byaarav)&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aaravkashyapsingh)&nbsp;&nbsp;
+[![Cal.com](https://img.shields.io/badge/-Book%20a%20call-FF6B35?style=flat-square&logo=googlecalendar&logoColor=white)](https://cal.com/aaravkashyap)
+
+<br>
 
 </div>
