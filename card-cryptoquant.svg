@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="138" viewBox="0 0 240 138">
+  <rect width="240" height="138" rx="16" fill="#11223B"/>
+  <path d="M0 94h32l16-32 18 46 23-62 18 29 23-13 18 30 25-58 17 31h38v73H0z" fill="#186E9C"/>
+  <path d="M0 94h32l16-32 18 46 23-62 18 29 23-13 18 30 25-58 17 31h38" stroke="#85E5FF" stroke-width="3" fill="none"/>
+  <text x="16" y="31" fill="#85E5FF" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" letter-spacing="1.6">SIGNALS, NOT HYPE</text>
+  <text x="16" y="66" fill="#F4FBFF" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700">CryptoQuant</text>
+  <text x="16" y="122" fill="#B1D6FF" font-family="Arial, Helvetica, sans-serif" font-size="10">look closer before you leap ↗</text>
+</svg>

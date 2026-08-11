@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="138" viewBox="0 0 240 138">
+  <rect width="240" height="138" rx="16" fill="#F2E6DA"/>
+  <path d="M0 112C51 59 88 151 142 92s61-39 98-50v96H0z" fill="#D84951"/>
+  <path d="M128 21c7 26 18 39 40 49-23 2-37 13-52 34 5-27 1-46-16-64 12 0 21-6 28-19z" fill="#22203A"/>
+  <text x="16" y="31" fill="#D84951" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" letter-spacing="1.6">VOICE, ON YOUR TERMS</text>
+  <text x="16" y="67" fill="#22203A" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700">Quill</text>
+  <text x="16" y="122" fill="#FFF9F3" font-family="Arial, Helvetica, sans-serif" font-size="10">say it. shape it. send it. ↗</text>
+</svg>
