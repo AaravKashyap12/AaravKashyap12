@@ -16,8 +16,8 @@
 <p align="center"><sub>A few things I’ve made lately</sub></p>
 
 <p align="center">
-  <a href="https://github.com/AaravKashyap12/advise-project-approach"><img src="https://raw.githubusercontent.com/AaravKashyap12/AaravKashyap12/main/card-approach.svg" width="240" alt="advise-project-approach" /></a>
-  <a href="https://github.com/AaravKashyap12/quill"><img src="https://raw.githubusercontent.com/AaravKashyap12/AaravKashyap12/main/card-quill.svg" width="240" alt="Quill" /></a>
-  <a href="https://github.com/AaravKashyap12/TalentMatch"><img src="https://raw.githubusercontent.com/AaravKashyap12/AaravKashyap12/main/card-talentmatch.svg" width="240" alt="TalentMatch" /></a>
-  <a href="https://github.com/AaravKashyap12/CryptoQuant"><img src="https://raw.githubusercontent.com/AaravKashyap12/AaravKashyap12/main/card-cryptoquant.svg" width="240" alt="CryptoQuant" /></a>
+  <a href="https://github.com/AaravKashyap12/advise-project-approach"><img src="https://raw.githubusercontent.com/AaravKashyap12/AaravKashyap12/main/card-approach.svg" width="210" alt="advise-project-approach" /></a>
+  <a href="https://github.com/AaravKashyap12/quill"><img src="https://raw.githubusercontent.com/AaravKashyap12/AaravKashyap12/main/card-quill.svg" width="210" alt="Quill" /></a>
+  <a href="https://github.com/AaravKashyap12/TalentMatch"><img src="https://raw.githubusercontent.com/AaravKashyap12/AaravKashyap12/main/card-talentmatch.svg" width="210" alt="TalentMatch" /></a>
+  <a href="https://github.com/AaravKashyap12/CryptoQuant"><img src="https://raw.githubusercontent.com/AaravKashyap12/AaravKashyap12/main/card-cryptoquant.svg" width="210" alt="CryptoQuant" /></a>
 </p>
