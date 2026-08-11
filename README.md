@@ -1,10 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=700&size=28&duration=2600&pause=1800&color=E5EDFF&center=true&vCenter=true&repeat=true&width=760&height=56&lines=AARAV+KASHYAP+SINGH;AI+SYSTEMS+FOR+ACTUAL+PEOPLE" alt="Aarav Kashyap Singh — AI systems for actual people" />
+  <img src="https://raw.githubusercontent.com/AaravKashyap12/AaravKashyap12/main/mascot.png" width="70" alt="A small robotic moth friend" />
+  <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=700&size=26&duration=2600&pause=1800&color=E5EDFF&center=true&vCenter=true&repeat=true&width=520&height=56&lines=hey%2C+i%27m+aarav.;i+make+useful+things." alt="Hey, I'm Aarav. I make useful things." />
 </p>
 
-<p align="center"><sub>HUMAN-CENTRED AI · PUNJAB, INDIA · BUILT WITH INTENT</sub></p>
-
-<p align="center">I find the human thread through tedious workflows and opaque decisions—then turn the complexity into tools that feel obvious on the other side.</p>
+<p align="center">I like taking messy, annoying problems and making them a little easier to live with. Most of my work sits somewhere between people, AI, and the things that get in the way.</p>
 
 <p align="center">
   <a href="https://www.aaravkashyap.live/"><img src="https://raw.githubusercontent.com/AaravKashyap12/AaravKashyap12/main/portfolio.svg" alt="Visit portfolio" /></a>
@@ -14,15 +13,11 @@
   <a href="https://cal.com/aaravkashyap"><img src="https://raw.githubusercontent.com/AaravKashyap12/AaravKashyap12/main/call.svg" alt="Book a call" /></a>
 </p>
 
-<table>
-  <tr>
-    <td width="50%" valign="top"><strong><a href="https://github.com/AaravKashyap12/advise-project-approach">advise-project-approach ↗</a></strong><br /><sub>Evidence-first project judgment for AI agents.</sub></td>
-    <td width="50%" valign="top"><strong><a href="https://github.com/AaravKashyap12/quill">Quill ↗</a></strong><br /><sub>Local-first voice input with human control.</sub></td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top"><strong><a href="https://github.com/AaravKashyap12/TalentMatch">TalentMatch ↗</a></strong><br /><sub>Explainable hiring shortlists, not keyword matching.</sub></td>
-    <td width="50%" valign="top"><strong><a href="https://github.com/AaravKashyap12/CryptoQuant">CryptoQuant ↗</a></strong><br /><sub>Transparent signals for curious market explorers.</sub></td>
-  </tr>
-</table>
+<p align="center"><sub>A few things I’ve made lately</sub></p>
 
-<p align="center"><sub>BASED IN PUNJAB, INDIA · MAKING COMPLEX THINGS FEEL MORE HUMAN</sub></p>
+<p align="center">
+  <a href="https://github.com/AaravKashyap12/advise-project-approach"><img src="https://raw.githubusercontent.com/AaravKashyap12/AaravKashyap12/main/card-approach.svg" width="240" alt="advise-project-approach" /></a>
+  <a href="https://github.com/AaravKashyap12/quill"><img src="https://raw.githubusercontent.com/AaravKashyap12/AaravKashyap12/main/card-quill.svg" width="240" alt="Quill" /></a>
+  <a href="https://github.com/AaravKashyap12/TalentMatch"><img src="https://raw.githubusercontent.com/AaravKashyap12/AaravKashyap12/main/card-talentmatch.svg" width="240" alt="TalentMatch" /></a>
+  <a href="https://github.com/AaravKashyap12/CryptoQuant"><img src="https://raw.githubusercontent.com/AaravKashyap12/AaravKashyap12/main/card-cryptoquant.svg" width="240" alt="CryptoQuant" /></a>
+</p>
