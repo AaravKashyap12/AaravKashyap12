@@ -1,4 +1,4 @@
-<h2>Hey, I'm Aarav. &nbsp;<img src="./claude-buddy.svg" height="34" alt="Claude buddy" /> &nbsp;<img src="./codex-buddy.gif" height="42" alt="Codex buddy" /></h2>
+<h2>Hey, I'm Aarav. &nbsp;<img src="./claude-buddy.svg" width="52" height="34" alt="Claude buddy" /> &nbsp;<img src="./codex-buddy.gif" width="39" height="42" alt="Codex buddy" /></h2>
 
 I make useful things: AI systems, internal tools, and software that runs in production.
 
