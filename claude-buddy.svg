@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-14 -1 136 89" width="136" height="89" role="img" aria-label="Claude buddy">
+  <title>Claude buddy — portfolio fan-art reconstruction</title>
+  <g fill="#D86A50">
+    <rect x="0" y="0" width="107" height="60"/>
+    <rect x="-13" y="34" width="14" height="15"/>
+    <rect x="106" y="34" width="14" height="15"/>
+    <rect x="11" y="58" width="11" height="26"/>
+    <rect x="32" y="58" width="11" height="26"/>
+    <rect x="64" y="58" width="11" height="26"/>
+    <rect x="85" y="58" width="11" height="26"/>
+  </g>
+  <g fill="#101010">
+    <rect x="27" y="18" width="9" height="9"/>
+    <rect x="71" y="18" width="9" height="9"/>
+  </g>
+</svg>

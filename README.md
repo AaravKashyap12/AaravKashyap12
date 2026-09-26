@@ -1,23 +1,21 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AaravKashyap12/AaravKashyap12/main/mascot.png" width="70" alt="A small robotic moth friend" />
-  <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=700&size=26&duration=2600&pause=1800&color=E5EDFF&center=true&vCenter=true&repeat=true&width=520&height=56&lines=hey%2C+i%27m+aarav.;i+make+useful+things." alt="Hey, I'm Aarav. I make useful things." />
-</p>
+<h2>Hey, I'm Aarav. &nbsp;<img src="./claude-buddy.svg" height="34" alt="Claude buddy" /> &nbsp;<img src="./codex-buddy.gif" height="42" alt="Codex buddy" /></h2>
 
-<p align="center">I like taking messy, annoying problems and making them a little easier to live with. Most of my work sits somewhere between people, AI, and the things that get in the way.</p>
+I make useful things: AI systems, internal tools, and software that runs in production.
 
-<p align="center">
-  <a href="https://www.aaravkashyap.live/"><img src="https://raw.githubusercontent.com/AaravKashyap12/AaravKashyap12/main/portfolio.svg" alt="Visit portfolio" /></a>
-  <a href="https://x.com/byaarav"><img src="https://raw.githubusercontent.com/AaravKashyap12/AaravKashyap12/main/x.svg" alt="Follow @byaarav on X" /></a>
-  <a href="https://www.linkedin.com/in/aaravkashyapsingh"><img src="https://raw.githubusercontent.com/AaravKashyap12/AaravKashyap12/main/linkedin.svg" alt="Connect on LinkedIn" /></a>
-  <a href="mailto:aaravkashyap1203@gmail.com"><img src="https://raw.githubusercontent.com/AaravKashyap12/AaravKashyap12/main/email.svg" alt="Send email" /></a>
-  <a href="https://cal.com/aaravkashyap"><img src="https://raw.githubusercontent.com/AaravKashyap12/AaravKashyap12/main/call.svg" alt="Book a call" /></a>
-</p>
+I like taking messy, annoying problems and making them a little easier to live with.
 
-<p align="center"><sub>A few things I’ve made lately</sub></p>
+[Portfolio](https://aaravkashyapsingh.com) · [X / @byaarav](https://x.com/byaarav) · [LinkedIn](https://www.linkedin.com/in/aaravkashyapsingh) · [Email](mailto:hello@aaravkashyapsingh.com) · [Book a call](https://cal.com/aaravkashyap/meetings)
 
-<p align="center">
-  <a href="https://github.com/AaravKashyap12/advise-project-approach"><img src="https://raw.githubusercontent.com/AaravKashyap12/AaravKashyap12/main/card-approach.svg" width="190" alt="advise-project-approach" /></a>
-  <a href="https://github.com/AaravKashyap12/quill"><img src="https://raw.githubusercontent.com/AaravKashyap12/AaravKashyap12/main/card-quill.svg" width="190" alt="Quill" /></a>
-  <a href="https://github.com/AaravKashyap12/TalentMatch"><img src="https://raw.githubusercontent.com/AaravKashyap12/AaravKashyap12/main/card-talentmatch.svg" width="190" alt="TalentMatch" /></a>
-  <a href="https://github.com/AaravKashyap12/CryptoQuant"><img src="https://raw.githubusercontent.com/AaravKashyap12/AaravKashyap12/main/card-cryptoquant.svg" width="190" alt="CryptoQuant" /></a>
-</p>
+### Selected work
+
+- **[Quill](https://github.com/AaravKashyap12/quill)** — Local-first voice dictation with optional AI cleanup.
+- **[advise-project-approach](https://github.com/AaravKashyap12/advise-project-approach)** — A research workflow for making software decisions with evidence.
+- **[TalentMatch](https://github.com/AaravKashyap12/TalentMatch)** — An AI recruiting copilot with evidence-backed candidate recommendations.
+- **[CryptoQuant](https://github.com/AaravKashyap12/CryptoQuant)** — Crypto analytics, forecasts, and backtested strategies.
+
+[More projects and notes →](https://aaravkashyapsingh.com/projects)
+
+<!-- Mascot credits: Claude is Anthropic's mascot; this SVG reuses the local
+     fan-art reconstruction used in the portfolio. Codex belongs to OpenAI;
+     the GIF extracts the first six idle frames from their sprite sheet:
+     https://persistent.oaistatic.com/codex/pets/v1/codex-spritesheet-v4.webp -->
